@@ -60,7 +60,7 @@ A new version of STM32Cube.AI (8.1.0) will be available soon. If you are interes
 
 
 
-#MY CHANGES:
--Adding converter.py: script to convert bounding boxes from json format to darkner YOLO txt format
+#MY CHANGES:  
+-Adding converter.py: script to convert bounding boxes from json format to darkner YOLO txt format  
 -Adding bbvisual.py: script to visualize ground truth bounding boxes and model detected bounding boxes of the cones
 -Adding BBvisualA and BBvisuall: they contains pics taken as a test for the neural network
