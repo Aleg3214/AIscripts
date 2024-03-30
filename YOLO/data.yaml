@@ -1,0 +1,6 @@
+train: C:\Users\aless\Desktop\yolov8\yolo\train\images
+val: C:\Users\aless\Desktop\yolov8\yolo\val\images
+test: C:\Users\aless\Desktop\yolov8\yolo\test\images
+
+nc: 4
+names: ['blue_cone', 'yellow_cone', 'orange_cone', 'large_orange_cone']
